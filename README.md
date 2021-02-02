@@ -1,3 +1,4 @@
+![notlikeduck](https://github.com/Confucius52/Confucius52/blob/main/notlikeduck.png)
 
 <!--
 **Confucius52/Confucius52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
